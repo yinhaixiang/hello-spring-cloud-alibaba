@@ -4,6 +4,8 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+
+
 ### STS ###
 .apt_generated
 .classpath
@@ -29,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.mvn/
+mvnw
+mvnw.cmd
+.DS_Store
+
+
+/src/main/resources/upload/
