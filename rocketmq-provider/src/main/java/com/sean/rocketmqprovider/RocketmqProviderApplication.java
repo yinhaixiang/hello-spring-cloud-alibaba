@@ -27,6 +27,6 @@ public class RocketmqProviderApplication implements CommandLineRunner {
      */
     @Override
     public void run(String... args) throws Exception {
-        providerService.send("Hello RocketMQ");
+        providerService.send("Hello RocketMQ 你好啊");
     }
 }
